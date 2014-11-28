@@ -1,0 +1,8 @@
+
+
+# Items
+item.makeshiftmod:twig.name=Twig
+item.makeshiftmod:wood_cc.name=Wooden Click Crafter
+
+# Creative Tabs
+itemGroup.makeshiftmod=Makeshift Mod
